@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_menu_home"
+            android:icon="@drawable/baseline_home_24"
+            android:title="@string/ffff3" />
+        <item
+            android:id="@+id/nav_menu_account"
+            android:icon="@drawable/baseline_account_24"
+            android:title="@string/my_account" />
+        <item
+            android:id="@+id/nav_menu_leaderboard"
+            android:icon="@drawable/ic_leaderboard"
+            android:title="@string/leaderboard" />
+    </group>
+    <item android:title="@string/general">
+        <menu>
+            <item
+                android:id="@+id/nav_menu_savedQues"
+                android:icon="@drawable/ic_bookmark"
+                android:title="@string/saved_questions3" />
+
+            <item
+                android:id="@+id/settings"
+                android:icon="@drawable/ic_settings"
+                android:title="@string/settings" />
+
+            <item
+                android:id="@+id/language"
+                android:icon="@drawable/ic_langauge"
+                android:title="@string/choose_your_language" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_share"
+        android:title="@string/share" />
+
+    <item
+        android:id="@+id/aboutUs"
+        android:icon="@drawable/ic_about_us"
+        android:title="@string/about_us" />
+
+</menu>

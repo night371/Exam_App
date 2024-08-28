@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:elevation="5dp"
+        android:gravity="center"
+        android:inputType="textMultiLine"
+        android:scrollbars="vertical"
+        android:text="@string/question_1"
+        android:textColor="@color/black"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        android:id="@+id/tv_question_item_layout"
+        android:translationZ="5dp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/optionA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:background="@drawable/unselected_btn"
+        android:elevation="5dp"
+        android:gravity="center"
+        android:stateListAnimator="@null"
+        android:text="@string/option_a"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:translationZ="5dp"
+
+        />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/optionB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:background="@drawable/unselected_btn"
+        android:elevation="5dp"
+        android:gravity="center"
+        android:stateListAnimator="@null"
+        android:text="@string/option_b"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:translationZ="5dp"
+
+        />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/optionC"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:background="@drawable/unselected_btn"
+        android:elevation="5dp"
+        android:gravity="center"
+        android:stateListAnimator="@null"
+        android:text="@string/option_c"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:translationZ="5dp"
+
+        />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/optionD"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:background="@drawable/unselected_btn"
+        android:elevation="5dp"
+        android:gravity="center"
+        android:stateListAnimator="@null"
+        android:text="@string/option_d"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:translationZ="5dp"
+
+        />
+
+
+</LinearLayout>

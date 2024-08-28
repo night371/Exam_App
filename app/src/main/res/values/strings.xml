@@ -1,0 +1,182 @@
+<resources>
+    <string name="app_name">Exam Practice</string>
+    <string name="exam_practice">Exam Practice</string>
+    <string name="my_acount">My Acount</string>
+    <string name="my_acounts">My Acount</string>
+    <string name="navigation_header">Navigation Header</string>
+    <string name="edris_keyana">edris keyana</string>
+    <string name="welcome_to_the_test_boys">welcome to the test boys</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="about">About</string>
+    <string name="home">Home</string>
+    <string name="nav_drawer_open">its open</string>
+    <string name="nav_drawer_close">its close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ddf">Exam Practice</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="full_name">Full Name</string>
+    <string name="email4">Email</string>
+    <string name="password5">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sing">Sign up</string>
+    <string name="sign_in_with_google">Sign in with google account.</string>
+    <string name="default_web_client_id" translatable="false">942490047540-t7004oovgs4bcv5s9t9qr92dc8j3tse8.apps.googleusercontent.com</string>
+    <string name="title">Title</string>
+    <string name="_80">80%</string>
+    <string name="log_out">Log out</string>
+    <string name="a">A</string>
+    <string name="name_last_name">Name Last Name</string>
+    <string name="gggg">Edris Keyana</string>
+    <string name="ffff3">Home</string>
+    <string name="my_account">My Account</string>
+    <string name="_1_25">1/25</string>
+    <string name="_20_12_min">20:12 min</string>
+    <string name="submit">Submit</string>
+    <string name="gk">GK</string>
+    <string name="clear_selection">Clear Selection</string>
+    <string name="mark_for_review">Mark for Review</string>
+    <string name="category">Category</string>
+    <string name="test_no_2">Test No. 2</string>
+    <string name="start">Start</string>
+    <string name="questions">Questions</string>
+    <string name="_5">5</string>
+    <string name="best_score">Best Score</string>
+    <string name="eeeee">80</string>
+    <string name="time">Time</string>
+    <string name="time2">Time</string>
+    <string name="_24_min">24 min</string>
+    <string name="question_1">Question 1</string>
+    <string name="option_a">Option A</string>
+    <string name="option_b">Option B</string>
+    <string name="option_c">Option C</string>
+    <string name="option_d">Option D</string>
+    <string name="wrong_answers">Wrong Answers</string>
+    <string name="not_visted">Not Visted</string>
+    <string name="review">Review</string>
+    <string name="_1" translatable="false">1</string>
+    <string name="unanswerd">Unanswerd</string>
+    <string name="not_answered">"NOT-ANSWERED"</string>
+    <string name="exit_test">Exit Test</string>
+    <string name="do_you_want_exit_test">Do you want to exit the test?</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="your_score_is">Score is :</string>
+    <string name="_45">45</string>
+    <string name="time_taken">Time Taken</string>
+    <string name="_5_min">5 Min</string>
+    <string name="total_questions">Total Questions</string>
+    <string name="_7">7</string>
+    <string name="correct">CORRECT</string>
+    <string name="_6">6</string>
+    <string name="wrong">WRONG</string>
+    <string name="ggg">Not Answered</string>
+    <string name="check_your_rank_in_leaderboard" translatable="false">Check your rank in leaderboard</string>
+    <string name="retry">Home</string>
+    <string name="view_answers">view answers</string>
+    <string name="frfff">A</string>
+    <string name="name">Name</string>
+    <string name="rank">Rank</string>
+    <string name="na">NA</string>
+    <string name="score">Over all Score</string>
+    <string name="saved_questions">Saved Questions</string>
+    <string name="leaderboarde">Leaderboard</string>
+    <string name="my_profile">My Profile</string>
+    <string name="logout">Logout</string>
+    <string name="exit_the_app">Exit</string>
+    <string name="msg">Do you want to exit?</string>
+    <string name="ddd">A</string>
+    <string name="name2">Name</string>
+    <string name="email6">Email</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="edit">Edit</string>
+    <string name="cancels">Cancel</string>
+    <string name="a3">A</string>
+    <string name="edris">Edris</string>
+    <string name="score_1234">Score : 1234</string>
+    <string name="rankgg">Rank</string>
+    <string name="question_no_1">Question No.</string>
+    <string name="a_123" translatable="false">A :123</string>
+    <string name="b_123" translatable="false">B :123</string>
+    <string name="c_123" translatable="false">C :123</string>
+    <string name="d_123" translatable="false">D :123</string>
+    <string name="question">Question</string>
+    <string name="wrongf">WRONG</string>
+    <string name="general">General</string>
+    <string name="saved_questions3">Saved Questions</string>
+    <string name="close">Close</string>
+    <string name="email2">Email</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="back">Back</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="hyperlink">Open <a href="https://www.geeksforgeeks.org">GeeksforGeeks portal</a></string>
+
+    <string name="provide_your_account_s_email_for_which_you_want_to_reset_your_password">Provide your account\'s email for which you want to reset your password!</string>
+    <string name="loading">Loading…</string>
+    <string name="textview" translatable="false">TextView</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="settings">Settings</string>
+    <string name="choose_your_language">Choose your Language</string>
+    <string name="save">Save</string>
+    <string name="cat_name">Cat Name</string>
+    <string name="_22_test">22 Test</string>
+    <string name="total_users_0">Total Users: 0</string>
+    <string name="you">You</string>
+    <string name="score_0">Score : 0</string>
+    <string name="rank_n_a">Rank - N/A</string>
+    <string name="update">Updating…</string>
+    <string name="updaing">Updated data Successfully.</string>
+    <string name="errName">enter the name</string>
+    <string name="errPhone">enter valid phone no.</string>
+    <string name="urScor">Score is :</string>
+    <string name="urRank">"Rank : "</string>
+    <string name="exit_app">Exit App</string>
+    <string name="share">Share</string>
+    <string name="about_us">About Us</string>
+    <string name="description_app">Exam Practice is a comprehensive mobile application designed to help students of all ages prepare for their upcoming exams. The app offers a wide range of practice questions, quizzes, and interactive exercises across various academic subjects, including math, science, language arts, and social studies. With Exam Practice, students can customize their study sessions based on their individual strengths and weaknesses, allowing them to focus on the areas they need to improve. The app also includes detailed explanations for each question, enabling users to understand the concepts better and identify their learning gaps. Additionally, Exam Practice provides personalized progress tracking, allowing students to monitor their performance and celebrate their achievements as they progress through the material. Whether you\'re a high school student cramming for the SAT or a college student preparing for a final exam, Exam Practice is an invaluable tool to boost your confidence and maximize your academic success.</string>
+    <string name="errEmail">Invalid email address</string>
+    <string name="errPass">Invalid Password</string>
+    <string name="passLenght">pass must be more than 8 chars</string>
+    <string name="logging">Logging in</string>
+    <string name="LoginSucess">Log in successful</string>
+    <string name="errorMsg">Something went wrong please try again</string>
+    <string name="register">Registering User...</string>
+    <string name="succssRegister">Sign up successful</string>
+    <string name="failedMsg">Authentication failed.</string>
+    <string name="mismatch">password don\'t mismatch.</string>
+    <string name="no_of_test">NO_OF_TESTS</string>
+    <string name="Name">NAME</string>
+    <string name="subjectName">Math</string>
+    <string name="num_of_tests">test 12</string>
+    <string name="history">history</string>
+    <string name="math">math</string>
+    <string name="biology">biology</string>
+    <string name="dari">dari</string>
+    <string name="test_activity_title">Test</string>
+    <string name="test_no">Test : %d</string>
+    <string name="test_number">Test No.</string>
+    <string name="admin">Admin</string>
+    <string name="normal">Normal</string>
+    <string name="choose_your_account_type">Choose your Account type:</string>
+    <string name="rank_is">Rank :</string>
+    <string name="result">Result</string>
+    <string name="ViewAnswer">View Answers</string>
+    <string name="opt">A..</string>
+    <string name="optc">C..</string>
+    <string name="optb">B..</string>
+    <string name="optd">D..</string>
+    <string name="you_are_an_admin">You are an admin</string>
+
+
+    <array name="Languages">
+        <item>Dari</item>
+        <item>English</item>
+        <item>German</item>
+    </array>
+
+
+</resources>

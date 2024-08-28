@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="General Settings">
+
+
+        <MultiSelectListPreference
+            android:entries="@array/Languages"
+            android:entryValues="@array/Languages"
+            android:key="multi_select_list_preference_1"
+            android:title="Choose language"/>
+    </PreferenceCategory>
+
+
+
+</PreferenceScreen>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_bottom_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/nav_bottom_leader"
+        android:icon="@drawable/ic_leaderboard"
+        android:iconTint="@color/black"
+        android:title="@string/leaderboard"
+        tools:ignore="UnusedAttribute" />
+
+    <item
+        android:id="@+id/nav_bottom_account"
+        android:icon="@drawable/baseline_account_24"
+        android:title="@string/my_acount" />
+    </group>
+
+
+</menu>
