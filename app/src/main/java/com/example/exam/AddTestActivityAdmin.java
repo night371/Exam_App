@@ -40,7 +40,6 @@ public class AddTestActivityAdmin extends AppCompatActivity {
     TestInfo testInfo;
     Query query;
     ListenerRegistration listenerRegistration;
-    FirebaseAuth auth;
 
 
     @Override
